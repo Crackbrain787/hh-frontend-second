@@ -1,2 +1,2 @@
 Ссылка на деплой
-https://crackbrain787.github.io/hh-frontend-first/
+https://crackbrain787.github.io/hh-frontend-second/
